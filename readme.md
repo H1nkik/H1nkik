@@ -5,7 +5,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=H1nkik&show_icons=true&theme=unicorn" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1nkik&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1nkik&layout=compact&theme=unicorn" />
 </div>  
 
 ## 🎵 Now Playing on Spotify
