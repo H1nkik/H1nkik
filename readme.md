@@ -10,7 +10,11 @@
 </div>  
 
 ## 🏆 LeetCode Progress  
-![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Nova%20Round&site=cn)
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200)
+
+</div>  
 
 ## 🎵 Now Playing on Spotify
 <div align="center">
