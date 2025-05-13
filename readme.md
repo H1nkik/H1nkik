@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1nkik&layout=compact&theme=unicorn" />
 </div>  
 
-## 🏆 LeetCode Progress  
+## 🌱 LeetCode Progress  
 <div align="center">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200)
