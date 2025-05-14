@@ -12,7 +12,7 @@
 ## 🌱 LeetCode Progress  
 <div align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200)
+![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=5400)
 
 </div>  
 
