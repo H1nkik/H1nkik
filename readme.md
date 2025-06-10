@@ -10,26 +10,25 @@
 </div>  
 
 
-## 🌱 Just for fun & 🎵 Spotify
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- LeetCode Card -->
-  <div style="flex: 0 0 auto;">
-    <img 
-      src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" 
-      style="width: 300px; border-radius: 10px;" 
-      alt="LeetCode Stats"
-    />
+## 🌱 LeetCode & 🎵 Spotify
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" 
+        height="160px"
+      />
+    </td>
+    <td align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img 
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+          height="160px"
+        />
+      </a>
+    </td>
+  </tr>
   </div>
-
-  <!-- Spotify Card -->
-  <div style="flex: 0 0 auto;">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
-      style="width: 300px; border-radius: 10px;" 
-      alt="Spotify Now Playing"
-    />
-  </div>
-
+</div>
 </div>
