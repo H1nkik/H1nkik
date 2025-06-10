@@ -10,18 +10,20 @@
 </div>  
 
 
-## 🌱 LeetCode Progress  
+## ⌨️ Just for Fun & 🎵 Spotify
 
-<div align="center">
-Just for fun like IQ quiz! 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=5400)
+  
+  <img height="160em" src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" style="border-radius: 10px;" />
+
+  
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img height="160em"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+      height="160em"
+      style="border-radius: 10px;"
+    />
+  </a>
 
 </div>
-
-
-## 🎵 Now Playing on Spotify
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>  
