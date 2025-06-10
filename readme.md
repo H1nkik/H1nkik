@@ -12,23 +12,15 @@
 
 ## 🌱 LeetCode & 🎵 Spotify
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" 
-        height="160px"
-      />
-    </td>
-    <td align="center">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img 
-          src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
-          height="160px"
-        />
-      </a>
-    </td>
-  </tr>
-  </div>
+  <img 
+    src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" 
+    height="160px"
+    style="margin-right: 20px;" 
+  />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eafi2b27lfvdsz2horfnh46gu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+      height="160px"
+    />
+  </a>
 </div>
-
