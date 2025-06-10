@@ -9,14 +9,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1nkik&layout=compact&theme=unicorn" />
 </div>  
 
-<!--
+
 ## 🌱 LeetCode Progress  
+
 <div align="center">
-  
+Just for fun like IQ quiz! 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=5400)
 
 </div>
--->
+
 
 ## 🎵 Now Playing on Spotify
 <div align="center">
