@@ -10,11 +10,12 @@
 </div>  
 
 
-## 🌱 LeetCode & 🎵 Spotify
+## ⌨️ Just for fun & 🎵 Spotify
 <div align="center">
   <img 
     src="https://leetcard.jacoblin.cool/H1nkik?theme=light&font=Yomogi%20Round&site=cn&cache=43200" 
     width="45%" 
+    height="130px"
     style="margin-right: 2%;" 
   />
   <a href="https://github.com/kittinan/spotify-github-profile">
